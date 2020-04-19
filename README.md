@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Learn Software Testing 
 
-You can use the [editor on GitHub](https://github.com/taqueemlearning/LearnTesting/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I will be updating the site with the contents that I so far learned and experienced.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I ll be also putting the steps for automation 
 
 ### Markdown
 
